@@ -3,11 +3,24 @@
   opacity: 0.5;
 }*/
 
+/*colors:
+blue: #527FD9;
+lightblue: #A2B6F2;
+gold: #F2B84B;
+*/
 
-#triangleList {
-  opacity:1;
-  /*display: none;*/
-  background-color: transparent;
+tr {
+  align
+}
+
+td {
+  height: 250px;
+  width: 250px;
+}
+
+td:hover {
+  background: #A2B6F2;
+  opacity: 0.5;
 }
 
 .contact {

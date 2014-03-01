@@ -103,5 +103,14 @@ var Game = {
 }
 };
 
+$(document).ready.getElementById("canvas");
+
+
+// TO DO:
+// - JQuery
+// - Initialize Game + Board
+// - Assign Players 
+// - Mark Symbols on appropriate squares
+
 
 
